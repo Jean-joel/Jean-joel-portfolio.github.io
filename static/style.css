@@ -1,0 +1,4 @@
+body { font-family: Arial, sans-serif; text-align: center; padding: 20px; }
+form { display: flex; flex-direction: column; max-width: 400px; margin: auto; }
+input, textarea { margin: 5px 0; padding: 10px; width: 100%; }
+button { background: blue; color: white; padding: 10px; border: none; }
